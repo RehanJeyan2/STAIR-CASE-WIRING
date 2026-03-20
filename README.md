@@ -1,5 +1,5 @@
 # STAIR-CASE-WIRING
-
+asda
 AIM
 To control the status of the given lamp by using two – way switches.
 
